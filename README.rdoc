@@ -1,4 +1,5 @@
 == README
 
 Version three of Stutor, the online platform for finding your private tutor in Amsterdam
+<<<<<<< HEAD
 Test driven development with Rspec and Capybara.
